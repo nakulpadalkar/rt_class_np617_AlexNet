@@ -38,3 +38,5 @@ venv.bak/
 
 train.py
 predict.py
+
+model_inputs_outputs/inputs/CUB_200_2011/*
